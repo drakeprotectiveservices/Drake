@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Drake Protective Services",
-  description: "Professional protective services, security consulting, and discreet client support throughout Maine and New England.",
+  description: "Professional protective services, civilian training, security consulting, and discreet client support throughout Maine and New England.",
 };
 
 export default function RootLayout({
