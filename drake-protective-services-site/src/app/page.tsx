@@ -11,7 +11,7 @@ const services = [
   {
     title: "Security Consulting",
     description:
-      "Practical threat awareness, site review, planning, and recommendations built around real-world needs.",
+      "Practical threat awareness, site review, planning, and recommendations built around real-world needs. We also offer civilian training courses. Current offerings are ALICE and how to build a church safety team",
     icon: Lock,
   },
   {
@@ -102,9 +102,7 @@ export default function Home() {
               experience.
             </p>
             <p>
-              Our approach is simple: assess the situation, reduce unnecessary risk,
-              communicate clearly, and maintain a professional presence without creating
-              unnecessary attention.
+              Our experience spans a wide array of tasks and responsibilities.  We have worked with Secret Service directly protecting the President.  We have worked with Governor visits and legislative events.  We have secured private, high profile functions.  We have served as close protection to A list personalities.
             </p>
           </div>
         </div>
